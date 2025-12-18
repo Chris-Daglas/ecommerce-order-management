@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VoQY72NTP7w=",
+  "success": true,
+  "projectFilePath": "/Users/chrisdaglas/Developer/ecommerce-order-management/ECommerce.Api/ECommerce.Api.csproj",
+  "expectedPackageFiles": [
+    "/Users/chrisdaglas/.nuget/packages/microsoft.aspnetcore.openapi/9.0.4/microsoft.aspnetcore.openapi.9.0.4.nupkg.sha512",
+    "/Users/chrisdaglas/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
